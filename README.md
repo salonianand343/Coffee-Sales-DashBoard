@@ -65,31 +65,9 @@ The project helps businesses make data-driven decisions through interactive and 
 
 ---
 
-# 📷 Dashboard Preview
-
-## Dashboard
-![Dashboard Screenshot](dashboard.png)
-
-## Pivot Analysis
-![Pivot Table Screenshot](pivot.png)
-
----
-
-# 📂 Project Files
-
-- `CoffeeSales-Dashboard.xlsx` → Main Excel Dashboard File
-- `dashboard.png` → Dashboard Preview Image
-- `pivot.png` → Pivot Table Analysis Image
-- `Project_Report.pdf` → Detailed Project Report
-
----
 
 # 📄 Project Outcome
 
 This project demonstrates how Excel can be used as a powerful business intelligence tool to create professional dashboards and generate actionable insights from raw sales data.
 
----
 
-# ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
